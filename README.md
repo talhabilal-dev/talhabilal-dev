@@ -73,21 +73,17 @@ const developer = {
 
 ## 🌟 Featured Projects
 
-<div>
+<div align="center">
 
 [![create-node-spark](https://github-readme-stats.vercel.app/api/pin/?username=talhabilal-dev&repo=create-node-spark&theme=tokyonight)](https://github.com/talhabilal-dev/create-node-spark)
-[![nextjs-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=talhabilal-dev&repo=nextjs-portfolio&theme=tokyonight)](https://github.com/talhabilal-dev/nextjs-portfolio)
-[![bilal-tube](https://github-readme-stats.vercel.app/api/pin/?username=talhabilal-dev&repo=bilal-tube&theme=tokyonight)](https://github.com/talhabilal-dev/bilal-tube)
 
 
 </div>
 
 ### 🎯 What I'm Building
 
-- 🔥 **E-Commerce Platform** - Next.js, Laravel API, MySQL
-- 💼 **Business Management System** - Laravel, Tailwind CSS, MySQL  
-- 📱 **Task Management App** - Next.js, Node.js, MongoDB
-- 🚀 **Portfolio Website** - Next.js, TypeScript, Tailwind CSS
+- 🔥 **Learning Management System** - Blade, Laravel, MySQL
+- 🚀 **A cli-tool** - Node.js
 
 ---
 
