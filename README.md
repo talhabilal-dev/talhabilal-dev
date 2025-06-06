@@ -73,9 +73,11 @@ const developer = {
 
 ## 🌟 Featured Projects
 
-<div align="center">
+<div>
 
 [![create-node-spark](https://github-readme-stats.vercel.app/api/pin/?username=talhabilal-dev&repo=create-node-spark&theme=tokyonight)](https://github.com/talhabilal-dev/create-node-spark)
+[![nextjs-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=talhabilal-dev&repo=nextjs-portfolio&theme=tokyonight)](https://github.com/talhabilal-dev/nextjs-portfolio)
+[![bilal-tube](https://github-readme-stats.vercel.app/api/pin/?username=talhabilal-dev&repo=bilal-tube&theme=tokyonight)](https://github.com/talhabilal-dev/bilal-tube)
 
 
 </div>
