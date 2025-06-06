@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Full%20Stack%20Developer&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+</div>
+
 # Hey there! 👋 I'm [Your Name]
 
 <div align="center">
@@ -64,14 +68,9 @@ const developer = {
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
   
 </div>
 
@@ -83,6 +82,8 @@ const developer = {
 
 [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=awesome-project-1&theme=tokyonight)](https://github.com/yourusername/awesome-project-1)
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=amazing-project-2&theme=tokyonight)](https://github.com/yourusername/amazing-project-2)
+[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=cool-project-3&theme=tokyonight)](https://github.com/yourusername/cool-project-3)
+[![Project 4](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=awesome-project-4&theme=tokyonight)](https://github.com/yourusername/awesome-project-4)
 
 </div>
 
