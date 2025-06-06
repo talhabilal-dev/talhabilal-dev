@@ -75,8 +75,8 @@ framework:["Nodejs", "Laravel", "Nextjs"],
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=awesome-project-1&theme=tokyonight)](https://github.com/talhabilal-dev/bilal-tube)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=amazing-project-2&theme=tokyonight)](https://github.com/talhabilal-dev/create-node-spark)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=talhabilal-dev&repo=awesome-project-1&theme=tokyonight)](https://github.com/talhabilal-dev/bilal-tube)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=talhabilal-dev&repo=amazing-project-2&theme=tokyonight)](https://github.com/talhabilal-dev/create-node-spark)
 
 </div>
 
