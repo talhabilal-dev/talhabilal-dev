@@ -76,10 +76,9 @@ const developer = {
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=talhabilal-dev&repo=awesome-project-1&theme=tokyonight)](https://github.com/talhabilal-dev/awesome-project-1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=talhabilal-dev&repo=amazing-project-2&theme=tokyonight)](https://github.com/talhabilal-dev/amazing-project-2)
-[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=talhabilal-dev&repo=cool-project-3&theme=tokyonight)](https://github.com/talhabilal-dev/create-node-spark)
-[![Project 4](https://github-readme-stats.vercel.app/api/pin/?username=talhabilal-dev&repo=awesome-project-4&theme=tokyonight)](https://github.com/talhabilal-dev/awesome-project-4)
+[![create-node-spark](https://github-readme-stats.vercel.app/api/pin/?username=talhabilal-dev&repo=create-node-spark&theme=tokyonight)](https://github.com/talhabilal-dev/create-node-spark)
+[![nextjs-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=talhabilal-dev&repo=nextjs-portfolio&theme=tokyonight)](https://github.com/talhabilal-dev/nextjs-portfolio)
+[![bilal-tube](https://github-readme-stats.vercel.app/api/pin/?username=talhabilal-dev&repo=bilal-tube&theme=tokyonight)](https://github.com/talhabilal-dev/bilal-tube)
 
 </div>
 
