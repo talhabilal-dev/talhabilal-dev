@@ -49,7 +49,7 @@ framework:["Nodejs", "Laravel", "Nextjs"],
 ### Backend Power ⚡
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-3776AB?style=for-the-badge&logo=laravel&logoColor=red)
+![Laravel](https://img.shields.io/badge/Laravel-3776AB?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Database & Cloud ☁️
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -93,7 +93,7 @@ framework:["Nodejs", "Laravel", "Nextjs"],
 
 <div align="center">
   
-  ![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/talhabilal-dev/talhabilal-dev/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
@@ -137,7 +137,7 @@ Whether you want to discuss the latest in web development, share project ideas, 
 
 ⭐ **If you find my work interesting, don't forget to star some repositories!**
 
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/talhabilal-dev/count.svg)
 
 </div>
 
