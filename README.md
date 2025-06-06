@@ -92,11 +92,11 @@ const developer = {
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
 <div align="center">
   
-  ![Snake animation](https://github.com/talhabilal-dev/talhabilal-dev/blob/output/github-contribution-grid-snake.svg)
+  ![Talha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=talhabilal-dev&theme=tokyo-night&hide_border=true)
   
 </div>
 
