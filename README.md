@@ -106,17 +106,16 @@ const developer = {
 2025_objectives:
   learning:
     - "Master advanced Laravel features"
-    - "Explore React Native for mobile development"
+    - "Exploring go language by google"
     - "Dive deeper into cloud deployment"
   
   building:
-    - "Launch SaaS product"
-    - "Contribute to 5+ open source projects" 
-    - "Mentor junior developers"
+    - "A lms in laravel"
+    - "A cli-tool for nodejs" 
     
   growth:
-    - "Speak at tech conferences"
-    - "Build developer community"
+    - "Build a portfolio"
+    - "Build freelance profile"
     - "Write technical blog posts"
 ```
 
