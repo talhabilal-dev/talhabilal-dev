@@ -10,7 +10,7 @@
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://talhabilal.dev)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talhabilal-dev/)
-  [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)]([https://x.com/talhabilaldev])
+  [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/talhabilaldev)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.talha.bilal.dev@gmail.com)
 </div>
 
@@ -82,7 +82,8 @@ const developer = {
 
 ### 🎯 What I'm Building
 
-- 🔥 **Learning Management System** - Blade, Laravel, MySQL
+- 🔥 **Learning Management System** — Role-based app with quizzes, student tracking, and admin panel. Built using Laravel + Blade + MySQL.
+
 - 🚀 **A cli-tool** - Node.js
 
 ---
@@ -137,6 +138,12 @@ Whether you want to discuss the latest in web development, share project ideas, 
 ![Visitor Count](https://profile-counter.glitch.me/talhabilal-dev/count.svg)
 
 </div>
+
+## 💡 Did You Know?
+
+- I once built a CLI tool that shaved 30+ minutes off our daily deployment.
+- I prefer Vim keybindings in VSCode (yes, I'm that person).
+
 
 ---
 
