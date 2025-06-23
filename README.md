@@ -73,11 +73,11 @@ const developer = {
 
 ## 🌟 Featured Projects
 
-<div align="left">
+<div align="justify">
 
 [![create-node-spark](https://github-readme-stats.vercel.app/api/pin/?username=talhabilal-dev&repo=create-node-spark&theme=tokyonight)](https://github.com/talhabilal-dev/create-node-spark)
-[![Tickmate](https://github-readme-stats.vercel.app/api/pin/?username=talhabilal-dev&repo=create-node-spark&theme=tokyonight)](https://github.com/talhabilal-dev/tickmate-frontend)
-[![Tickmate](https://github-readme-stats.vercel.app/api/pin/?username=talhabilal-dev&repo=create-node-spark&theme=tokyonight)](https://github.com/talhabilal-dev/next-auth-kit)
+[![Tickmate](https://github-readme-stats.vercel.app/api/pin/?username=talhabilal-dev&repo=tickmate-frontend&theme=tokyonight)](https://github.com/talhabilal-dev/tickmate-frontend)
+[![next-auth-kit](https://github-readme-stats.vercel.app/api/pin/?username=talhabilal-dev&repo=next-auth-kit&theme=tokyonight)](https://github.com/talhabilal-dev/next-auth-kit)
 
 
 
