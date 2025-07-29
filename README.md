@@ -137,7 +137,7 @@ const developer = {
 2025_objectives:
   learning:
     - "Master advanced Laravel features"
-    - "Exploring go language by google"
+    - "Exploring python and go language"
     - "Dive deeper into cloud deployment"
   
   building:
