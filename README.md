@@ -23,7 +23,7 @@ const developer = {
     name: "Talha Bilal",
     role: "Full Stack Developer",
     location: "Pakistan",
-    languages: ["JavaScript", "TypeScript", "PHP"],
+    languages: ["JavaScript", "TypeScript", "PHP" , "Python"],
     passions: ["Clean Code", "User Experience", "Problem Solving"],
     currentFocus: "Building scalable web applications",
     funFact: "I debug with console.log and I'm not ashamed! 🐛"
