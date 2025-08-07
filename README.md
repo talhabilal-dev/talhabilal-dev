@@ -30,35 +30,9 @@
 
 I'm building something **revolutionary** for the developer community. **CLINest** is the world's first dedicated marketplace for CLI tools, where creativity meets the command line.
 
-## ✨ What's CLINest?
-
-### 🏪 Marketplace
-
-**Discover powerful CLI tools made by indie developers**
-
-- Browse curated tools
-- One-click installation  
-- Verified & secure downloads
-
-### 💰 Monetize Your Skills
-
-**Sell your custom CLI tools with ease**
-
-- License key integration
-- Subscription management
-- Fair revenue sharing
-
-### 🔐 Enterprise Ready
-
-**Built for scale and security**
-
-- Role-based access control
-- Team management
-- Enterprise licensing
-
 ## 🎯 Why CLINest?
 
-> **Built by developers, for developers** — with love and the command line ❤️
+> **Built by developer, for developers** — with love and the command line ❤️
 
 ✅ **Secure Distribution** - Safe, verified CLI tools with built-in security  
 ✅ **Instant Access** - One command to install any tool from my marketplace  
