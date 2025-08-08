@@ -16,50 +16,6 @@
 
 ---
 
-# 🚀 CLINest
-
-**The Terminal Tool Marketplace**
-
-[![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-blueviolet?style=for-the-badge&logo=terminal)](https://clinest.dev) [![Built with Love](https://img.shields.io/badge/Built%20with-❤️-red?style=for-the-badge)](https://clinest.dev) [![For Developers](https://img.shields.io/badge/Made%20for-Developers-blue?style=for-the-badge&logo=github)](https://clinest.dev)
-
-> 🛠️ *Discover, sell, and manage CLI tools — all in one place.*
-
----
-
-## 📢 Big Announcement Coming Soon
-
-I'm building something **revolutionary** for the developer community. **CLINest** is the world's first dedicated marketplace for CLI tools, where creativity meets the command line.
-
-## 🎯 Why CLINest?
-
-> **Built by developer, for developers** — with love and the command line ❤️
-
-✅ **Secure Distribution** - Safe, verified CLI tools with built-in security  
-✅ **Instant Access** - One command to install any tool from my marketplace  
-✅ **Quality Curated** - Hand-picked tools that solve real problems  
-✅ **Global Community** - Connect with CLI enthusiasts worldwide  
-✅ **Fair Revenue** - Developers keep most of what they earn  
-
-## 🚀 Get Ready
-
-```bash
-# Coming Soon: The App Store for Terminal Lovers
-npx clinest --launch
-```
-
-## 🔔 Want Early Access?
-
-**Stay in the loop:**
-
-- 🌐 **[Visit my website](https://talhabilal.dev)**
-- 🐦 **[Follow me on Twitter](https://x.com/talhabilaldev)**  
-<!-- - 💬 **[Join my Discord](https://discord.gg/clinest)**
-- 📧 **[Join the waitlist](https://clinest.dev/waitlist)** -->
-
----
-
-**💡 CLINest.dev — Launching Soon. Stay Tuned!**
-
 ## 🚀 About Me
 
 ```javascript
