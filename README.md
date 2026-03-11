@@ -34,14 +34,17 @@ const talhaBilal = {
   
   code: {
     languages: ["JavaScript", "TypeScript", "PHP", "Python", "SQL"],
-    frontend: ["Next.js", "React", "Tailwind CSS", "HTML5", "CSS3"],
-    backend: ["Node.js", "Laravel", "FastAPI", "Express"],
-    databases: ["MySQL", "MongoDB", "PostgreSQL"],
-    tools: ["Git", "Docker", "VS Code", "Postman"]
+    frontend: ["Next.js", "React", "Tailwind CSS", "Bootstrap", "HTML5", "CSS3"],
+    backend: ["Node.js", "Laravel", "FastAPI", "Express.js"],
+    databases: ["MySQL", "PostgreSQL", "MongoDB", "Redis", "SQLite"],
+    orm: ["Prisma", "Eloquent ORM", "Mongoose"],
+    apis: ["REST", "GraphQL", "WebSockets"],
+    devops: ["Docker", "Git", "Vercel", "DigitalOcean", "Netlify"],
+    tools: ["VS Code", "Vim", "Postman", "NPM", "GitHub Actions"]
   },
   
-  currentlyLearning: ["Advanced Laravel", "Python Ecosystem", "Go Language"],
-  currentlyBuilding: ["LMS Platform", "Node.js CLI Tool"],
+  currentlyLearning: ["Advanced Laravel", "Python Ecosystem", "Go Language", "AWS Cloud Services"],
+  currentlyBuilding: ["LMS Platform", "Node.js CLI Tool", "Portfolio v2.0"],
   
   workExperience: {
     freelance: true,
@@ -85,6 +88,24 @@ I'm passionate about building scalable, performant web applications that deliver
 
 ---
 
+## 💎 What I Bring to the Table
+
+<div align="center">
+
+| 🔥 Strength | 📝 Details |
+|-------------|-----------|
+| **Full-Stack Expertise** | End-to-end development from database design to pixel-perfect UI |
+| **Clean Architecture** | Scalable, maintainable code following SOLID principles & design patterns |
+| **API Design** | RESTful & GraphQL APIs with robust authentication (JWT, OAuth) |
+| **Performance Focus** | Query optimization, caching strategies, and fast load times |
+| **Real-World Delivery** | 15+ production projects shipped with 100% client satisfaction |
+| **Rapid Scaffolding** | Published CLI tools that cut project setup time from hours to seconds |
+| **DevOps Awareness** | Containerized deployments, CI/CD pipelines, cloud hosting |
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -119,6 +140,12 @@ I'm passionate about building scalable, performant web applications that deliver
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
+**ORM & Query Builders**
+
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Eloquent](https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ### 🗄️ Database & Storage
 
 **Relational Databases**
@@ -139,6 +166,7 @@ I'm passionate about building scalable, performant web applications that deliver
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### 🧰 Development Tools
 
@@ -341,8 +369,12 @@ milestones:
 | **MySQL / PostgreSQL** | ██████████████████░░ 90% |
 | **MongoDB** | ████████████████░░░░ 80% |
 | **Tailwind CSS** | ███████████████████░ 95% |
+| **Prisma ORM** | ████████████████████ 90% |
+| **Eloquent ORM** | ████████████████████ 90% |
+| **REST API Design** | ███████████████████░ 95% |
 | **Python / FastAPI** | ███████████████░░░░░ 75% |
 | **Docker / DevOps** | ██████████████░░░░░░ 70% |
+| **GraphQL** | █████████████░░░░░░░ 65% |
 | **Git / GitHub** | ███████████████████░ 95% |
 
 </div>
