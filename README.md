@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Full%20Stack%20Developer&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Crafting%20Digital%20Experiences%20with%20Code&descSize=20&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Talha%20Bilal&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer%20%26%20AI%20Engineer&descSize=22&descAlignY=55"/>
 </div>
 
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+there!+%F0%9F%91%8B+I'm+Talha+Bilal;Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%92%A1;Code+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
-  </h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Full+Stack+%2B+AI+Engineer+%F0%9F%A4%96;SaaS+Products+%7C+AI+Automation+%7C+Clean+Code;LangChain+%E2%80%A2+Qdrant+%E2%80%A2+n8n+%E2%80%A2+OpenAI" alt="Typing SVG" />
 </div>
+
+<br/>
 
 <div align="center">
   
@@ -15,7 +15,7 @@
   [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/talhabilaldev)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.talha.bilal.dev@gmail.com)
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=talhabilal-dev&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+  ![Profile Views](https://komarev.com/ghpvc/?username=talhabilal-dev&color=00d8ff&style=for-the-badge&label=PROFILE+VIEWS)
   
 </div>
 
@@ -27,62 +27,36 @@
 
 ```typescript
 const talhaBilal = {
-  name: "Talha Bilal",
-  title: "Full Stack Developer",
-  location: "🇵🇰 Pakistan",
-  timezone: "PKT (UTC+5)",
-  
-  code: {
-    languages: ["JavaScript", "TypeScript", "PHP", "Python", "SQL"],
-    frontend: ["Next.js", "React", "Tailwind CSS", "Bootstrap", "HTML5", "CSS3"],
-    backend: ["Node.js", "Laravel", "FastAPI", "Express.js"],
-    databases: ["MySQL", "PostgreSQL", "MongoDB", "Redis", "SQLite"],
-    orm: ["Prisma", "Eloquent ORM", "Mongoose"],
-    apis: ["REST", "GraphQL", "WebSockets"],
-    devops: ["Docker", "Git", "Vercel", "DigitalOcean", "Netlify"],
-    tools: ["VS Code", "Vim", "Postman", "NPM", "GitHub Actions"]
-  },
-  
-  currentlyLearning: ["Advanced Laravel", "Python Ecosystem", "Go Language", "AWS Cloud Services"],
-  currentlyBuilding: ["LMS Platform", "Node.js CLI Tool", "Portfolio v2.0"],
-  
-  workExperience: {
-    freelance: true,
-    openToOpportunities: true,
-    interests: ["Full-time", "Contract", "Open Source"]
-  },
-  
-  softSkills: ["Problem Solving", "Team Collaboration", "Agile/Scrum"],
-  
-  funFacts: [
-    "I debug with console.log() 🐛",
-    "Coffee-driven developer ☕",
-    "Vim keybindings enthusiast 🎮"
+  name:     "Talha Bilal",
+  title:    "Full Stack Developer & AI Engineer",
+  location: "🇵🇰 Pakistan (UTC+5)",
+
+  focus: [
+    "Production-grade SaaS applications",
+    "AI-powered features & automation workflows",
+    "Clean architecture with real-world delivery"
   ],
-  
-  mantra: "Clean code is not written by following a set of rules. " +
-          "You know when you've written it by reading it. 📖"
+
+  stack: {
+    frontend:   ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+    backend:    ["Node.js", "Express", "Laravel", "FastAPI"],
+    databases:  ["PostgreSQL", "MongoDB", "MySQL", "Qdrant (vector DB)"],
+    ai:         ["LangChain", "OpenAI", "Semantic Search", "RAG Pipelines"],
+    automation: ["n8n", "Inngest", "GitHub Actions"],
+    devops:     ["Docker", "Vercel", "DigitalOcean", "CI/CD"],
+  },
+
+  currentlyBuilding: [
+    "AI-powered SaaS products",
+    "Automation workflows with n8n",
+    "Open-source developer tools"
+  ],
+
+  openTo: ["Freelance", "Contract", "Full-time"],
+
+  mantra: "Build systems, not just features."
 };
 ```
-
-</div>
-
-### 💡 What Drives Me
-
-<div align="center">
-
-> **Turning complex problems into elegant solutions, one commit at a time.**
-
-</div>
-
-<div align="center">
-
-I'm passionate about building scalable, performant web applications that deliver exceptional user experiences. Whether it's architecting backend systems, crafting responsive frontends, or optimizing database queries, I approach every challenge with curiosity and attention to detail.
-
-🎯 **Mission:** Create software that makes a real difference  
-🌱 **Growth:** Constantly learning and adapting to new technologies  
-🤝 **Collaboration:** Open to working on innovative projects  
-📚 **Knowledge Sharing:** Contributing to the developer community
 
 </div>
 
@@ -93,102 +67,218 @@ I'm passionate about building scalable, performant web applications that deliver
 <div align="center">
 
 | 🔥 Strength | 📝 Details |
-|-------------|-----------|
-| **Full-Stack Expertise** | End-to-end development from database design to pixel-perfect UI |
-| **Clean Architecture** | Scalable, maintainable code following SOLID principles & design patterns |
-| **API Design** | RESTful & GraphQL APIs with robust authentication (JWT, OAuth) |
-| **Performance Focus** | Query optimization, caching strategies, and fast load times |
-| **Real-World Delivery** | 15+ production projects shipped with 100% client satisfaction |
-| **Rapid Scaffolding** | Published CLI tools that cut project setup time from hours to seconds |
-| **DevOps Awareness** | Containerized deployments, CI/CD pipelines, cloud hosting |
+|---|---|
+| **Full-Stack SaaS** | End-to-end product development — frontend, backend, DB, auth, payments |
+| **AI Integration** | LangChain pipelines, OpenAI, RAG, semantic search with Qdrant |
+| **Automation** | Workflow automation with n8n, async processing with Inngest |
+| **Auth Systems** | Custom token-based auth — no third-party lock-in |
+| **Payment Systems** | Credit-based billing with Stripe — usage tracking, transaction history |
+| **API Design** | REST APIs with Swagger docs, Zod validation, production-level structure |
+| **Clean Architecture** | Type-safe, maintainable, scalable codebases from day one |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🎨 Frontend Development
-
-**Core Languages**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Frameworks & Libraries**
+### 🎨 Frontend
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### ⚙️ Backend Development
-
-**Languages & Runtimes**
+### ⚙️ Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Frameworks**
-
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**ORM & Query Builders**
+### 🤖 AI & Automation
 
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Inngest](https://img.shields.io/badge/Inngest-6366F1?style=for-the-badge&logoColor=white)
+
+### 🗄️ Databases & ORM
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logoColor=black)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Eloquent](https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🗄️ Database & Storage
+### 🚀 DevOps & Tools
 
-**Relational Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**NoSQL Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🚀 DevOps & Deployment
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### 🧰 Development Tools
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logoColor=white)
 
 </div>
+
+---
+
+## 🌟 Featured Projects
+
+---
+
+### 🧠 ResumMind — AI Resume Analysis Platform
+
+> AI-powered platform where users upload their resume and receive a detailed, section-by-section breakdown with scores, identified weaknesses, and actionable improvement guidance.
+
+<!-- PROJECT IMAGE: Add a screenshot of ResumMind here -->
+<!-- Example: <img src="./assets/resumind-preview.png" alt="ResumMind Preview" width="100%"/> -->
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/talhabilal-dev/resumind)
+
+**Key Features:**
+- 📄 Resume upload → AI-driven section-by-section analysis & scoring
+- 💳 Credit-based billing via Stripe with transaction history
+- 🔐 Custom auth system (no third-party providers) + account management
+- 📊 Full analysis history tracked per user in MongoDB
+
+**Tech:** `Next.js` `TypeScript` `LangChain` `OpenAI` `MongoDB` `Stripe`
+
+---
+
+### 🎫 TickMate — AI Support Ticketing System
+
+> A production-grade support ticketing platform that automatically analyzes incoming tickets, enriches them with AI metadata, and routes each one to the most relevant moderator using semantic search.
+
+<!-- PROJECT IMAGE: Add a screenshot of TickMate here -->
+<!-- Example: <img src="./assets/tickmate-preview.png" alt="TickMate Preview" width="100%"/> -->
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/talhabilal-dev/tickmate-frontend)
+
+**Key Features:**
+- 🤖 AI ticket enrichment + smart moderator routing via semantic search
+- 🔍 Qdrant vector DB for finding similar historical tickets instantly
+- 👥 Role-based access — admin, moderator, user
+- ⚡ Async processing via Inngest (non-blocking background jobs)
+- 📊 Admin panel with AI usage tracking (tokens, cost, activity logs)
+
+**Tech:** `Next.js` `Node.js` `LangChain` `Qdrant` `PostgreSQL` `Drizzle ORM` `Inngest`
+
+---
+
+### 🤖 Chatbot Foundation — Production-Ready Chatbot Engine
+
+> A modular, plug-and-play chatbot engine that handles all the complex backend aspects of a chatbot — ready to drop into any Node.js application in minutes.
+
+<!-- PROJECT IMAGE: Add a screenshot or architecture diagram of Chatbot Foundation here -->
+<!-- Example: <img src="./assets/chatbot-foundation-preview.png" alt="Chatbot Foundation Preview" width="100%"/> -->
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/talhabilal-dev/chatbot-foundation)
+
+**Key Features:**
+- 💬 Conversation memory + full session lifecycle management
+- 🔧 Tool calling support + streaming responses
+- ✅ Input validation with Zod, logging with Winston
+- 🧩 Fully modular — extend and customize easily
+
+**Tech:** `Node.js` `TypeScript` `Express` `LangChain` `OpenAI`
+
+---
+
+### 🎬 BilalTube — Video Streaming Backend
+
+> A YouTube-style backend platform supporting scalable media workflows, multi-file uploads, and a fully documented REST API.
+
+<!-- PROJECT IMAGE: Add a screenshot of BilalTube API docs or architecture here -->
+<!-- Example: <img src="./assets/bilaltube-preview.png" alt="BilalTube Preview" width="100%"/> -->
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/talhabilal-dev/bilaltube)
+
+**Key Features:**
+- 📹 Multi-file upload for videos & thumbnails via Cloudinary
+- 🔐 Access + refresh token authentication
+- 📖 Full Swagger API documentation
+- 🗄️ MongoDB for flexible video/user/metadata management
+
+**Tech:** `Node.js` `TypeScript` `Express` `MongoDB` `Cloudinary` `Swagger` `Zod`
+
+---
+
+### 🔐 NextAuth Kit — Plug-and-Play Auth for Next.js
+
+> A complete, production-ready authentication foundation — no third-party auth providers, fully customizable, built for SaaS.
+
+<!-- PROJECT IMAGE: Add a screenshot of the auth flows here -->
+<!-- Example: <img src="./assets/nextauth-kit-preview.png" alt="NextAuth Kit Preview" width="100%"/> -->
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/talhabilal-dev/next-auth-kit)
+
+**Key Features:**
+- 🔄 Full flows: sign-up, sign-in, email verification, password reset
+- 🔑 Access + refresh token architecture with auto-regeneration
+- 🏗️ Structured for reuse across any SaaS project
+- 🚫 Zero dependency on third-party auth providers
+
+**Tech:** `Next.js` `TypeScript` `JWT` `Custom Auth`
+
+---
+
+### 🎓 Learning Management System — Institute-Grade LMS
+
+> A production-grade LMS built for a local institute, fully digitalizing their academic operations with complete student, instructor, and admin workflows.
+
+<!-- PROJECT IMAGE: Add a screenshot of the LMS dashboard here -->
+<!-- Example: <img src="./assets/lms-preview.png" alt="LMS Preview" width="100%"/> -->
+
+**Key Features:**
+- 🎓 Complete course management, enrollment, and assessments
+- 👤 Role-based access — student, instructor, admin
+- 📊 Reporting & progress tracking
+- 🏫 Deployed and actively used by a real institute
+
+**Tech:** `Laravel` `MySQL` `PHP` `Blade`
+
+---
+
+### 🌐 Portfolio — Perfect Lighthouse Scores
+
+> A high-performance developer portfolio with a modern dark UI, Sanity CMS integration for dynamic blog content, and near-perfect Google Lighthouse scores.
+
+<!-- PROJECT IMAGE: Add a screenshot of the portfolio here -->
+<!-- Example: <img src="./assets/portfolio-preview.png" alt="Portfolio Preview" width="100%"/> -->
+
+[![Live](https://img.shields.io/badge/🌐_Live_Site-FF5722?style=for-the-badge)](https://talhabilal.dev)
+
+**Key Features:**
+- 🏆 100% SEO • 100% Accessibility • 100% Best Practices • 98% Performance (mobile)
+- 💯 Perfect 100% across all metrics on desktop
+- 📝 Sanity headless CMS for dynamic blog content
+- ⚡ Optimized for performance and Core Web Vitals
+
+**Tech:** `Next.js` `TypeScript` `Sanity CMS` `Tailwind CSS`
 
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=talhabilal-dev&show_icons=true&count_private=true&hide_border=true&title_color=00d8ff&icon_color=00d8ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=talhabilal-dev&show_icons=true&count_private=true&hide_border=true&title_color=00d8ff&icon_color=00d8ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=talhabilal-dev&theme=react&hide_border=true&background=0D1117&stroke=0D1117&currStreakLabel=00d8ff&ring=00d8ff&fire=00d8ff" alt="Streak Stats" />
 </div>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhabilal-dev&layout=compact&hide_border=true&title_color=00d8ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=talhabilal&hide_border=true&title_color=00d8ff&text_color=c9d1d9&bg_color=0d1117&custom_title=Weekly%20Coding%20Stats" alt="WakaTime Stats" />
 </div>
 
 ### 📈 Contribution Graph
@@ -203,157 +293,6 @@ I'm passionate about building scalable, performant web applications that deliver
   <img src="https://github-profile-trophy.vercel.app/?username=talhabilal-dev&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="Trophies" />
 </div>
 
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-### ⚡ Create Node Spark
-
-**Lightning-fast Node.js project scaffolding CLI tool**
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/talhabilal-dev/create-node-spark)
-
-Initialize production-ready applications with best practices in seconds.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-4A90E2?style=flat-square&logo=gnubash&logoColor=white)
-
----
-
-### 🎫 TickMate Frontend
-
-**Modern event ticketing platform**
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/talhabilal-dev/tickmate-frontend)
-
-Real-time booking, seat selection, and payment integration with beautiful UI.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-
----
-
-### 🔐 Next Auth Kit
-
-**Complete authentication solution for Next.js**
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/talhabilal-dev/next-auth-kit)
-
-JWT, OAuth, role-based access control, and more.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Auth](https://img.shields.io/badge/Auth-FF6C37?style=flat-square&logo=auth0&logoColor=white)
-![Security](https://img.shields.io/badge/Security-4A90E2?style=flat-square&logo=letsencrypt&logoColor=white)
-
----
-
-### 🎓 LMS Platform
-
-**Comprehensive Learning Management System** 🚧
-
-![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=for-the-badge)
-
-Role-based access, quizzes, student tracking, and admin dashboard.
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-</div>
-
----
-
-## 🎯 2025 Goals & Roadmap
-
-<div align="center">
-
-```yaml
-technical_skills:
-  mastery:
-    - Advanced Laravel (Queues, Events, Broadcasting)
-    - System Design & Architecture Patterns
-    - Database Optimization & Indexing
-  
-  exploration:
-    - Python Ecosystem (Django, Flask)
-    - Go Language for Backend Services
-    - Microservices Architecture
-    - GraphQL Advanced Patterns
-  
-  infrastructure:
-    - Docker & Container Orchestration
-    - CI/CD Pipelines (GitHub Actions)
-    - Cloud Services (AWS/GCP)
-
-projects:
-  building:
-    - Complete LMS Platform with Advanced Features
-    - Open Source CLI Tool for Node.js Developers
-    - Personal Portfolio Website v2.0
-    - Full-Stack SaaS Application
-  
-  contributing:
-    - Contribute to 5+ Open Source Projects
-    - Publish 2+ NPM Packages
-    - Create Laravel Package
-
-professional_growth:
-  career:
-    - Build Freelance Portfolio
-    - Complete 10+ Client Projects
-    - Explore Full-Time Opportunities
-  
-  networking:
-    - Connect with 100+ Developers
-    - Attend Tech Meetups/Conferences
-    - Join Developer Communities
-
-milestones:
-  Q1: Launch LMS Platform Beta, Publish CLI Tool
-  Q2: Complete Portfolio v2, Start Technical Blog
-  Q3: Build SaaS MVP, Contribute to OSS
-  Q4: Launch SaaS, Reflect & Plan 2026
-```
-
-</div>
-
----
-
-## 💼 Professional Experience
-
-<div align="center">
-
-### 🎨 Freelance Full Stack Developer
-
-**2023 - Present**
-
-✅ Delivered 15+ successful web applications for clients worldwide  
-✅ Specialized in Next.js, Laravel, and full-stack solutions  
-✅ Maintained 5⭐ rating with 100% client satisfaction  
-✅ Built scalable applications handling 10K+ concurrent users
-
-**Tech Stack:** Next.js • Laravel • MySQL • PostgreSQL • Tailwind CSS • REST APIs
-
----
-
-### 🚀 Open Source Contributor
-
-**2024 - Present**
-
-🌟 Created `create-node-spark` - CLI tool for rapid Node.js project setup  
-🌟 Developed `next-auth-kit` - Authentication boilerplate for Next.js  
-🌟 Active contributor to various JavaScript/PHP repositories  
-🌟 Combined downloads: 500+ across published packages  
-🌟 GitHub stars: 50+ across projects
-
-</div>
-
 ---
 
 ## 💡 Core Competencies
@@ -361,130 +300,44 @@ milestones:
 <div align="center">
 
 | 🎯 Skill | 📊 Proficiency |
-|----------|---------------|
-| **JavaScript/TypeScript** | ███████████████████░ 95% |
+|---|---|
+| **TypeScript / JavaScript** | ███████████████████░ 95% |
 | **Next.js / React** | ██████████████████░░ 90% |
-| **Laravel / PHP** | ███████████████████░ 95% |
-| **Node.js / Express** | █████████████████░░░ 85% |
-| **MySQL / PostgreSQL** | ██████████████████░░ 90% |
-| **MongoDB** | ████████████████░░░░ 80% |
-| **Tailwind CSS** | ███████████████████░ 95% |
-| **Prisma ORM** | ████████████████████ 90% |
-| **Eloquent ORM** | ████████████████████ 90% |
+| **Node.js / Express** | ██████████████████░░ 90% |
+| **Laravel / PHP** | ██████████████████░░ 90% |
+| **LangChain / OpenAI** | █████████████████░░░ 85% |
+| **PostgreSQL / MySQL** | ██████████████████░░ 90% |
+| **MongoDB** | █████████████████░░░ 85% |
+| **Qdrant / Vector DBs** | ████████████████░░░░ 80% |
+| **n8n Automation** | █████████████████░░░ 85% |
 | **REST API Design** | ███████████████████░ 95% |
-| **Python / FastAPI** | ███████████████░░░░░ 75% |
 | **Docker / DevOps** | ██████████████░░░░░░ 70% |
-| **GraphQL** | █████████████░░░░░░░ 65% |
-| **Git / GitHub** | ███████████████████░ 95% |
+| **Python / FastAPI** | ██████████████░░░░░░ 70% |
 
 </div>
 
 ---
 
-## 🏅 Achievements & Milestones
+## 📫 Let's Connect
 
 <div align="center">
 
-| 🎯 Achievement | 📅 Year | 📝 Description |
-|---------------|---------|----------------|
-| 🚀 **Published First NPM Package** | 2024 | Released `create-node-spark` CLI tool |
-| ⭐ **50+ GitHub Stars** | 2024 | Across multiple open-source projects |
-| 👥 **15+ Client Projects** | 2023-2024 | Successfully delivered freelance work |
-| 📦 **500+ Package Downloads** | 2024 | Combined downloads of published packages |
-| 💼 **5⭐ Freelance Rating** | 2023-2024 | 100% client satisfaction rate |
-| 🎓 **LMS Platform Development** | 2025 | Building comprehensive learning system |
+### Open to Opportunities
 
-</div>
-
----
-
-## 📫 Let's Connect & Collaborate
-
-<div align="center">
-
-### 🤝 Open to Opportunities
-
-I'm always interested in discussing **Collaborations** • **Freelance Work** • **Full-time Roles** • **Mentorship**
-
----
-
-### 📬 Reach Out
+**Freelance** • **Contract** • **Full-time** • **AI/Automation Projects**
 
 <a href="https://talhabilal.dev"><img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge" /></a>
 <a href="https://www.linkedin.com/in/talhabilal-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
 <a href="https://x.com/talhabilaldev"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x" /></a>
 <a href="mailto:m.talha.bilal.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-**📧 Email:** m.talha.bilal.dev@gmail.com  
-**🌍 Location:** Pakistan (PKT - UTC+5)  
-**💼 Status:** Open to opportunities
+**📧** m.talha.bilal.dev@gmail.com &nbsp;|&nbsp; **🌍** Pakistan (PKT - UTC+5)
 
 </div>
 
 ---
 
-## 💭 Developer Wisdom
-
-<div align="center">
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
-> *"Make it work, make it right, make it fast."* — Kent Beck
-
-</div>
-
----
-
-## 📊 Weekly Development Breakdown
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   12 hrs 30 mins  ████████████░░░░░░░░░   45.2%
-PHP          8 hrs 15 mins   ████████░░░░░░░░░░░░░   29.8%
-JavaScript   4 hrs 20 mins   ████░░░░░░░░░░░░░░░░░   15.7%
-JSON         1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░    5.4%
-Markdown     1 hr 5 mins     ░░░░░░░░░░░░░░░░░░░░░    3.9%
-```
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
-## 🎮 When I'm Not Coding
-
-<div align="center">
-
-☕ **Coffee Enthusiast** • 📚 **Tech Reader** • 🎮 **Gaming** • 🚶 **Outdoor Activities** • 🧠 **Problem Solving**
-
-</div>
-
----
-
-## 🌟 Fun Facts
-
-<div align="center">
-
-```javascript
-const funFacts = {
-  favoriteEditor: "VS Code with Vim keybindings",
-  debuggingTool: "console.log() (and proud of it! 🐛)",
-  codingMusic: "Lo-fi beats & instrumental focus music",
-  coffeePerDay: "3-4 cups ☕",
-  preferredWorkTime: "Late night (10 PM - 2 AM)",
-  motto: "Write code that future-you will thank you for"
-};
-```
-
-</div>
-
----
-
-## 📈 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -498,43 +351,9 @@ const funFacts = {
 
 ---
 
-## 🎯 Support My Work
-
 <div align="center">
 
-If you find my projects helpful, consider:
-
-⭐ **Starring** my repositories  
-🐛 **Reporting** issues or suggesting features  
-🤝 **Contributing** to open source projects  
-☕ **Buying me a coffee** (coming soon!)
-
-[![GitHub followers](https://img.shields.io/github/followers/talhabilal-dev?label=Follow&style=social)](https://github.com/talhabilal-dev)
-[![GitHub stars](https://img.shields.io/github/stars/talhabilal-dev?label=Stars&style=social)](https://github.com/talhabilal-dev)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Quote of the Day
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
----
-
-### 📊 Profile Summary
-
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talhabilal-dev&theme=transparent)
-
----
-
-**✨ "Building the web, one commit at a time" ✨**
-
-⭐ **Pro tip:** Hit the ⭐ button if you liked this README!
-
----
+**✨ "Build systems, not just features." ✨**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
