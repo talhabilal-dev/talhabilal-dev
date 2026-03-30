@@ -83,22 +83,25 @@ I specialize in integrating AI and automation into real products — not demos. 
 
 ---
 
-### 🧠 ResumMind — AI Resume Analysis Platform
+### 🌐 Personal Portfolio — Perfect Lighthouse Scores
 
-An AI-powered platform where users upload their resume and receive a detailed, section-by-section breakdown with scores, identified weaknesses, and actionable improvement guidance.
+A high-performance developer portfolio with Sanity CMS for dynamic blog content, achieving near-perfect Google Lighthouse scores across the board.
 
-<!-- Add project screenshot below (replace the comment with the line below, uncommenting it) -->
- ![ResumMind Preview](https://res.cloudinary.com/dvdktrhsz/image/upload/v1773488484/Screenshot_2026-03-14_at_16-35-00_Resumind_-_An_Ai-Powered_Resume_Builder_and_Analysis_Tool_tz6bn0.png)
+<!-- Add project screenshot below -->
+ ![Portfolio Preview](https://res.cloudinary.com/dvdktrhsz/image/upload/v1774868073/Screenshot_2026-03-30_at_15-53-34_Talha_Bilal_-_Full-Stack_Developer_AI_Engineer_Portfolio_y1ktc6.png) 
+
+  ![Portfolio Preview](https://res.cloudinary.com/dvdktrhsz/image/upload/v1774868259/1_ldelct.png) 
+
 
 **Highlights**
-- Resume upload → AI-driven section-by-section analysis & overall scoring
-- Credit-based billing via Stripe with full transaction history
-- Custom auth system (no third-party providers) + full account management
-- All analysis history persisted per user in MongoDB
+- 🏆 **100%** SEO · **100%** Accessibility · **100%** Best Practices · **98%** Performance on mobile
+- 💯 Perfect **100%** across all metrics on desktop
+- Sanity headless CMS for dynamic blog content
+- Optimized for Core Web Vitals and page speed
 
-**Stack:** `Next.js` · `TypeScript` · `LangChain` · `OpenAI` · `MongoDB` · `Stripe`
+**Stack:** `Next.js` · `TypeScript` · `Sanity CMS` · `Tailwind CSS`
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/talhabilal-dev/resumind)
+[![Live Site](https://img.shields.io/badge/🌐_Live_Site-FF5722?style=flat-square)](https://talhabilal.dev)
 
 ---
 
@@ -107,7 +110,7 @@ An AI-powered platform where users upload their resume and receive a detailed, s
 A production-grade support platform that auto-analyzes incoming tickets, enriches them with AI metadata, and routes each one to the most relevant moderator using semantic search.
 
 <!-- Add project screenshot below -->
-![TickMate Preview](https://res.cloudinary.com/dvdktrhsz/image/upload/v1774866356/Screenshot_2026-03-16_at_13-25-45_TickMate_nzhodn.png)
+![TickMate Preview](https://res.cloudinary.com/dvdktrhsz/image/upload/v1773220375/Screenshot_2026-03-11_at_13-52-02_TickMate_fudjrw.png)
 
 **Highlights**
 - AI ticket enrichment + intelligent moderator routing via semantic search
@@ -121,6 +124,26 @@ A production-grade support platform that auto-analyzes incoming tickets, enriche
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/talhabilal-dev/tickmate-app)
 
 ---
+
+### 🧠 ResumMind — AI Resume Analysis Platform
+
+An AI-powered platform where users upload their resume and receive a detailed, section-by-section breakdown with scores, identified weaknesses, and actionable improvement guidance.
+
+<!-- Add project screenshot below (replace the comment with the line below, uncommenting it) -->
+ ![ResumMind Preview](https://res.cloudinary.com/dvdktrhsz/image/upload/v1773488555/Screenshot_2026-03-14_at_16-42-22_Resumind_-_An_Ai-Powered_Resume_Builder_and_Analysis_Tool_racm0w.png)
+
+**Highlights**
+- Resume upload → AI-driven section-by-section analysis & overall scoring
+- Credit-based billing via Stripe with full transaction history
+- Custom auth system (no third-party providers) + full account management
+- All analysis history persisted per user in MongoDB
+
+**Stack:** `Next.js` · `TypeScript` · `LangChain` · `OpenAI` · `MongoDB` · `Stripe`
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/talhabilal-dev/resumind)
+
+---
+
 
 ### 🤖 Chatbot Foundation — Production Chatbot Engine
 
@@ -148,6 +171,8 @@ A YouTube-style backend platform built for scalable media workflows, multi-file 
 <!-- Add project screenshot or API docs preview below -->
  ![BilalTube Preview](https://res.cloudinary.com/dvdktrhsz/image/upload/v1774867054/WhatsApp_Image_2026-03-30_at_3.36.37_PM_ijlmhs.jpg)
 
+ ![BilalTube Preview](https://res.cloudinary.com/dvdktrhsz/image/upload/v1773220390/Screenshot_2026-03-11_at_13-56-42_Swagger_UI_dlcpex.png)
+
 **Highlights**
 - Multi-file upload for videos & thumbnails via Cloudinary
 - Access + refresh token authentication
@@ -157,25 +182,6 @@ A YouTube-style backend platform built for scalable media workflows, multi-file 
 **Stack:** `Node.js` · `TypeScript` · `Express` · `MongoDB` · `Cloudinary` · `Swagger` · `Zod`
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/talhabilal-dev/bilaltube)
-
----
-
-### 🔐 NextAuth Kit — Plug-and-Play Auth for Next.js
-
-A complete, production-ready authentication foundation — no third-party providers, fully customizable, built to reuse across any SaaS project.
-
-<!-- Add project screenshot below -->
- ![NextAuth Kit Preview](https://res.cloudinary.com/dvdktrhsz/image/upload/v1754476647/Screenshot_from_2025-08-06_15-31-11_tjwjxo.png)
-
-**Highlights**
-- Full flows: sign-up, sign-in, email verification, password reset, forgot password
-- Access + refresh token architecture with auto-regeneration on expiry
-- Zero dependency on third-party auth providers
-- Plug-and-play structure ready to drop into any Next.js SaaS
-
-**Stack:** `Next.js` · `TypeScript` · `JWT` · `Custom Token Auth`
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/talhabilal-dev/next-auth-kit)
 
 ---
 
@@ -196,25 +202,22 @@ A production-grade LMS built for a real institute, fully digitalizing their acad
 
 ---
 
-### 🌐 Personal Portfolio — Perfect Lighthouse Scores
+### 🔐 NextAuth Kit — Plug-and-Play Auth for Next.js
 
-A high-performance developer portfolio with Sanity CMS for dynamic blog content, achieving near-perfect Google Lighthouse scores across the board.
+A complete, production-ready authentication foundation — no third-party providers, fully customizable, built to reuse across any SaaS project.
 
 <!-- Add project screenshot below -->
- ![Portfolio Preview](https://res.cloudinary.com/dvdktrhsz/image/upload/v1774868073/Screenshot_2026-03-30_at_15-53-34_Talha_Bilal_-_Full-Stack_Developer_AI_Engineer_Portfolio_y1ktc6.png) 
-
-  ![Portfolio Preview](https://res.cloudinary.com/dvdktrhsz/image/upload/v1774868076/Screenshot_2026-03-30_at_15-53-52_Talha_Bilal_-_Full-Stack_Developer_AI_Engineer_Portfolio_sazwfh.png) 
-
+ ![NextAuth Kit Preview](https://res.cloudinary.com/dvdktrhsz/image/upload/v1754476647/Screenshot_from_2025-08-06_15-31-11_tjwjxo.png)
 
 **Highlights**
-- 🏆 **100%** SEO · **100%** Accessibility · **100%** Best Practices · **98%** Performance on mobile
-- 💯 Perfect **100%** across all metrics on desktop
-- Sanity headless CMS for dynamic blog content
-- Optimized for Core Web Vitals and page speed
+- Full flows: sign-up, sign-in, email verification, password reset, forgot password
+- Access + refresh token architecture with auto-regeneration on expiry
+- Zero dependency on third-party auth providers
+- Plug-and-play structure ready to drop into any Next.js SaaS
 
-**Stack:** `Next.js` · `TypeScript` · `Sanity CMS` · `Tailwind CSS`
+**Stack:** `Next.js` · `TypeScript` · `JWT` · `Custom Token Auth`
 
-[![Live Site](https://img.shields.io/badge/🌐_Live_Site-FF5722?style=flat-square)](https://talhabilal.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/talhabilal-dev/next-auth-kit)
 
 ---
 
@@ -254,7 +257,7 @@ A high-performance developer portfolio with Sanity CMS for dynamic blog content,
 | 🌐 **Portfolio** | [talhabilal.dev](https://talhabilal.dev) |
 | 💼 **LinkedIn** | [linkedin.com/in/talhabilal-dev](https://www.linkedin.com/in/talhabilal-dev/) |
 | 🐦 **X (Twitter)** | [@talhabilaldev](https://x.com/talhabilaldev) |
-| 📧 **Email** | m.talha.bilal.dev@gmail.com |
+| 📧 **Email** | contact@talhabilal.dev |
 | 🌍 **Location** | Pakistan (PKT — UTC+5) |
 
 ---
