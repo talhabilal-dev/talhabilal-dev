@@ -88,7 +88,7 @@ I specialize in integrating AI and automation into real products — not demos. 
 An AI-powered platform where users upload their resume and receive a detailed, section-by-section breakdown with scores, identified weaknesses, and actionable improvement guidance.
 
 <!-- Add project screenshot below (replace the comment with the line below, uncommenting it) -->
- ![ResumMind Preview](https://res.cloudinary.com/dvdktrhsz/image/upload/v1773488555/Screenshot_2026-03-14_at_16-42-22_Resumind_-_An_Ai-Powered_Resume_Builder_and_Analysis_Tool_racm0w.png)
+ ![ResumMind Preview](https://res.cloudinary.com/dvdktrhsz/image/upload/v1773488484/Screenshot_2026-03-14_at_16-35-00_Resumind_-_An_Ai-Powered_Resume_Builder_and_Analysis_Tool_tz6bn0.png)
 
 **Highlights**
 - Resume upload → AI-driven section-by-section analysis & overall scoring
@@ -107,7 +107,7 @@ An AI-powered platform where users upload their resume and receive a detailed, s
 A production-grade support platform that auto-analyzes incoming tickets, enriches them with AI metadata, and routes each one to the most relevant moderator using semantic search.
 
 <!-- Add project screenshot below -->
-![TickMate Preview](https://res.cloudinary.com/dvdktrhsz/image/upload/v1773220375/Screenshot_2026-03-11_at_13-52-02_TickMate_fudjrw.png)
+![TickMate Preview](https://res.cloudinary.com/dvdktrhsz/image/upload/v1774866356/Screenshot_2026-03-16_at_13-25-45_TickMate_nzhodn.png)
 
 **Highlights**
 - AI ticket enrichment + intelligent moderator routing via semantic search
