@@ -127,7 +127,7 @@ A production-grade support platform that auto-analyzes incoming tickets, enriche
 A modular, plug-and-play chatbot engine that handles all the complex backend aspects of a chatbot — drop it into any Node.js application in minutes.
 
 <!-- Add project screenshot or architecture diagram below -->
- ![Chatbot Foundation Preview](https://res.cloudinary.com/dvdktrhsz/image/upload/v1774865516/Gemini_Generated_Image_1nfrpc1nfrpc1nfr_g8vw2v.png) 
+ <!--![Chatbot Foundation Preview](https://res.cloudinary.com/dvdktrhsz/image/upload/v1774865516/Gemini_Generated_Image_1nfrpc1nfrpc1nfr_g8vw2v.png)--> 
 
 **Highlights**
 - Conversation memory + full session lifecycle management
@@ -146,7 +146,7 @@ A modular, plug-and-play chatbot engine that handles all the complex backend asp
 A YouTube-style backend platform built for scalable media workflows, multi-file uploads, and a fully documented REST API.
 
 <!-- Add project screenshot or API docs preview below -->
- ![BilalTube Preview](https://res.cloudinary.com/dvdktrhsz/image/upload/v1774865522/Gemini_Generated_Image_c13qffc13qffc13q_bievvu.png)
+ <!--![BilalTube Preview](https://res.cloudinary.com/dvdktrhsz/image/upload/v1774865522/Gemini_Generated_Image_c13qffc13qffc13q_bievvu.png)-->
 
 **Highlights**
 - Multi-file upload for videos & thumbnails via Cloudinary
@@ -184,7 +184,7 @@ A complete, production-ready authentication foundation — no third-party provid
 A production-grade LMS built for a real institute, fully digitalizing their academic operations from course management to student reporting.
 
 <!-- Add project screenshot below -->
- ![LMS Preview](https://res.cloudinary.com/dvdktrhsz/image/upload/v1774865839/taci_io6cgw.png)
+<!-- ![LMS Preview](https://res.cloudinary.com/dvdktrhsz/image/upload/v1774865839/taci_io6cgw.png)-->
 
 **Highlights**
 - Complete student, instructor, and admin workflows
@@ -201,7 +201,7 @@ A production-grade LMS built for a real institute, fully digitalizing their acad
 A high-performance developer portfolio with Sanity CMS for dynamic blog content, achieving near-perfect Google Lighthouse scores across the board.
 
 <!-- Add project screenshot below -->
- ![Portfolio Preview](https://res.cloudinary.com/dvdktrhsz/image/upload/v1774865761/portfolio_pnnk0h.png) 
+ ![Portfolio Preview](https://res.cloudinary.com/dvdktrhsz/image/upload/v1774866618/Screenshot_2026-03-20_at_18-00-44_Talha_Bilal_-_Full-Stack_Developer_AI_Engineer_Portfolio_wnku2n.png) 
 
 **Highlights**
 - 🏆 **100%** SEO · **100%** Accessibility · **100%** Best Practices · **98%** Performance on mobile
