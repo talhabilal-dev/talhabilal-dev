@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-I'm a full-stack developer and AI engineer based in 🇵🇰 **Pakistan**, with 1.5+ years of experience shipping complete, production-grade SaaS applications from the ground up.
+I'm a full-stack developer and AI engineer, with 2 years of experience shipping complete, production-grade SaaS applications from the ground up.
 
 I specialize in integrating AI and automation into real products — not demos. My work spans the entire stack: frontend, backend, database design, AI pipelines, background jobs, and payment systems — always with clean architecture and maintainability in mind.
 
